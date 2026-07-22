@@ -1,0 +1,9 @@
+ID,Fecha,Producto,Categoria,Precio_Unitario,Cantidad,Sucursal
+101,2026-07-01,Aire Split 3000FC,Climatización,850000,3,Tucumán
+102,2026-07-01,Heladera Inverter 380L,Refrigeración,1200000,1,Salta
+103,2026-07-02,Cocina Volcán 4P,Cocción,450000,2,Tucumán
+104,2026-07-02,Aire Split 5000FC,Climatización,1100000,2,Córdoba
+105,2026-07-03,Microondas 20L Digital,Electro Pequeño,180000,5,Tucumán
+106,2026-07-03,Heladera Inverter 380L,Refrigeración,1200000,2,Tucumán
+107,2026-07-04,Smart TV 50 4K,Electrónica,550000,4,Córdoba
+108,2026-07-04,Cocina Volcán 4P,Cocción,450000,1,Salta

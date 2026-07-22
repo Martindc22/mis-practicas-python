@@ -1,0 +1,5 @@
+ID,Fecha,Producto,Categoria,Precio_Unitario,Cantidad,Sucursal,Total_Venta
+101,2026-07-01,Aire Split 3000FC,Climatización,850000,3,Tucumán,2550000
+103,2026-07-02,Cocina Volcán 4P,Cocción,450000,2,Tucumán,900000
+105,2026-07-03,Microondas 20L Digital,Electro Pequeño,180000,5,Tucumán,900000
+106,2026-07-03,Heladera Inverter 380L,Refrigeración,1200000,2,Tucumán,2400000
