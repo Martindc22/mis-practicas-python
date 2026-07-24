@@ -1,0 +1,9 @@
+ID_Transaccion,Producto,Categoria,Precio_Unidad,Cantidad_Vendida,Stock_Disponible
+101,Smart TV 50,Tecnología,450000,3,8
+102,Aire Acondicionado,Climatización,680000,1,20
+103,Heladera MT17,Electro,890000,2,5
+104,Silla Gamer,,120000,5,14
+105,Teclado Mecanico,Tecnología,45000,12,9
+106,Smart TV 50,Tecnología,450000,2,8
+107,Placa de Video,,320000,4,3
+108,Aire Acondicionado,Climatización,680000,3,20
