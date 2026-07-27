@@ -1,0 +1,5 @@
+ID,Fecha,Producto,Categoria,Precio_Venta,Costo_Unitario,Cantidad,Ganancia,Costo_total
+203,2026-07-20,Smart TV 50,Tecnologia,480000,310000,3,510000,930000
+205,2026-07-21,Celular Galaxy,Tecnologia,320000,200000,4,480000,800000
+207,2026-07-23,Smart TV 50,Tecnologia,480000,310000,2,340000,620000
+208,2026-07-24,Celular Galaxy,Tecnologia,320000,200000,5,600000,1000000

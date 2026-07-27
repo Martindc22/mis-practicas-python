@@ -1,0 +1,9 @@
+ID,Fecha,Producto,Categoria,Precio_Venta,Costo_Unitario,Cantidad
+201,2026-07-18,Aire Split Inverter,Climatizacion,650000,420000,2
+202,2026-07-19,Heladera MT17,Electro,890000,610000,1
+203,2026-07-20,Smart TV 50,Tecnologia,480000,310000,3
+204,2026-07-21,Aire Split Inverter,Climatizacion,650000,420000,1
+205,2026-07-21,Celular Galaxy,Tecnologia,320000,200000,4
+206,2026-07-22,Heladera MT17,Electro,890000,610000,2
+207,2026-07-23,Smart TV 50,Tecnologia,480000,310000,2
+208,2026-07-24,Celular Galaxy,Tecnologia,320000,200000,5
