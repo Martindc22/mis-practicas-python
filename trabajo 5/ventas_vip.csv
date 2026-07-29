@@ -1,0 +1,4 @@
+ID_Venta,ID_Cliente,Producto,Monto,Nombre,Ciudad
+101,1,Smart TV,500000,Martín Gómez,Tucumán
+103,1,Heladera,700000,Martín Gómez,Tucumán
+104,3,Lavarropas,450000,Carlos Pérez,Buenos Aires
